@@ -1,0 +1,15 @@
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\bin\Debug\Esquinas Utiles.exe.config
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\bin\Debug\Esquinas Utiles.exe
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\bin\Debug\Esquinas Utiles.pdb
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas_Utiles.Form1.resources
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas_Utiles.Properties.Resources.resources
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.exe
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.pdb
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas_Utiles.Form2.resources
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\bin\Debug\Esquinas Utiles.exe.manifest
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\bin\Debug\Esquinas Utiles.application
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.TrustInfo.xml
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.exe.manifest
+C:\Users\pablo\source\repos\Esquinas Utiles\Esquinas Utiles\obj\Debug\Esquinas Utiles.application
